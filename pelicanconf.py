@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Kenneth Lyons'
-SITENAME = u'Thoughts for your Thoughts'
-SITESUBTITLE = u'...personal website of Kenneth Lyons'
+SITENAME = u'Kenneth Lyons'
+SITESUBTITLE = u'... thoughts for your thoughts'
 SITEURL = ''
 
 THEME = 'notmyidea'
@@ -27,7 +27,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/ixjlyons'),
-          ('bitbucket', 'https://bitbucket.org/ixjlyons'),)
+          ('bitbucket', 'https://bitbucket.org/ixjlyons'),
+          ('linkedin', 'https://www.linkedin.com/pub/kenneth-lyons/70/61b/21b'))
 
 DEFAULT_PAGINATION = False
 
