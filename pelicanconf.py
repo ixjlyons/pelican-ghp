@@ -7,7 +7,7 @@ SITENAME = u'Thoughts for your Thoughts'
 SITESUBTITLE = u'...personal website of Kenneth Lyons'
 SITEURL = ''
 
-THEME = '/home/kenny/usr/pelican/pelican-themes/bootstrap'
+THEME = 'notmyidea'
 
 PATH = 'content'
 
