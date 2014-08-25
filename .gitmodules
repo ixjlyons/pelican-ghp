@@ -1,4 +1,4 @@
 [submodule "output"]
 	path = output
-	url = https://github.com/ixjlyons/ixjlyons.github.io.git
+	url = git@github.com:ixjlyons/ixjlyons.github.io.git
     ignore = all
