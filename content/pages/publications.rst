@@ -10,6 +10,7 @@ Papers
    brain-computer interface: case study," 
    IEEE International Conference on Rehabilitation Robotics
    (2013).
+   [`link <http://dx.doi.org/10.1109/ICORR.2013.6650428>`_]
 
 
 Conference Posters and Abstracts

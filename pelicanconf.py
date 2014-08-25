@@ -7,7 +7,7 @@ SITENAME = u'Kenneth Lyons'
 SITESUBTITLE = u'... thoughts for your thoughts'
 SITEURL = ''
 
-THEME = 'notmyidea'
+THEME = './theme'
 
 PATH = 'content'
 
