@@ -4,12 +4,15 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Kenneth Lyons'
 SITENAME = u'Kenneth Lyons'
-SITESUBTITLE = u'... thoughts for your thoughts'
+SITESUBTITLE = u'thoughts for your thoughts'
 SITEURL = ''
-THEME = './theme'
+THEME = 'theme'
 PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
+
+PLUGIN_PATHS = ["/home/kenny/usr/pelican/pelican-plugins"]
+PLUGINS = ["render_math"]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -17,9 +20,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'))
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+#         ('Python.org', 'http://python.org/'),
+#         ('Jinja2', 'http://jinja.pocoo.org/'))
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/ixjlyons'),
