@@ -11,7 +11,7 @@ PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
 
-PLUGIN_PATHS = ["/home/kenny/usr/pelican/pelican-plugins"]
+PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ["render_math"]
 
 # Feed generation is usually not desired when developing

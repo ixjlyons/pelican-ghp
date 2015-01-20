@@ -2,3 +2,6 @@
 	path = output
 	url = git@github.com:ixjlyons/ixjlyons.github.io.git
     ignore = all
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = https://github.com/getpelican/pelican-plugins.git
