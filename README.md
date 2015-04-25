@@ -53,7 +53,7 @@ make serve
 ```
 
 Point the browser of choice to `locahost:8000` to see the result. Now, when
-changing content, issue another `make html`  and reload the the site in the
+changing content, issue another `make html`  and reload the site in the
 browser.
 
 ### Pushing to GitHub Pages
