@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Kenneth Lyons'
-SITENAME = u'Kenneth Lyons'
-SITESUBTITLE = u'thoughts for your thoughts'
-SITEURL = ''
+AUTHOR = 'Kenneth Lyons'
+SITENAME = 'Kenneth Lyons'
+SITESUBTITLE = 'thought for your thoughts'
+SITEURL = 'http://ixjlyons.github.io'
 THEME = 'theme'
 PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'

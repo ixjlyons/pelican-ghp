@@ -61,10 +61,11 @@ browser.
 I'm currently using [ghp-import][ghp-import] to manage this. I previously had
 the `output/` folder as a submodule of this repository which pointed to my
 GitHub Pages repo, but managing this turned out to be unnecessarily
-non-straightforward. Now, publishing the site is as simple as:
+non-straightforward. Now, publishing the site is as simple as (`MSG` arg is
+optional):
 
 ```
-make github MSG="Commit message for GHP"
+make github MSG="\"Commit message for GHP\""
 ```
 
 This essentially creates a local `gh-pages` branch in this repository then
