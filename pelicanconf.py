@@ -18,14 +18,14 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-# Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'))
-
 # Social widget
 SOCIAL = (('github', 'https://github.com/ixjlyons'),
           ('bitbucket', 'https://bitbucket.org/ixjlyons'),
           ('linkedin', 'https://www.linkedin.com/pub/kenneth-lyons/70/61b/21b'))
+
+STATIC_PATHS = ['images', 'extra']
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
 
 DEFAULT_PAGINATION = False
