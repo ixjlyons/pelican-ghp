@@ -2,6 +2,9 @@ Title: About
 URL:
 save_as: index.html
 
+<img src="{filename}/images/north-coast.jpg"
+    border=0 width=250 height=250 align=right hspace=10 vspace=10>
+
 Hello, I'm Kenneth Lyons.
 
 I am a PhD student in the Mechanical and Aerospace Engineering department at UC
@@ -12,11 +15,10 @@ and data analysis. Here is some stuff I'm interested in:
 
 ## Research
 
-Since I am a PhD student, this is the first category in the list :). My primary
-research interests include electrophysiological signal acquisition and
-processing, the combination of human and machine learning, and their use for
-the control of computer and machine interfaces. In English: I'm fascinated by
-the fact that our bodies produce electrical signals that can be detected,
+My primary research interests include electrophysiological signal acquisition
+and processing, the combination of human and machine learning, and their use
+for the control of computer and machine interfaces. In English: I'm fascinated
+by the fact that our bodies produce electrical signals that can be detected,
 understood, and in some cases, used to control things.
 
 I'm most familiar with electromyography (EMG), which has to do with the signals
@@ -67,7 +69,8 @@ aren't still tired from yesterday.
 I am a Linux enthusiast ([Linux From Scratch](http://www.linuxfromscratch.org/)
 is my idea of a fun weekend). I go to [LUGOD](http://www.lugod.org/) meetings
 when I can. You can look at my [dotfiles](http://github.com/ixjlyons/dotfiles)
-if you want.
+if you want. My setup generally includes Arch, a tiling window manager (i3 at
+the moment), fish, and vim.
 
 Here are some projects I think are cool:
 
@@ -93,16 +96,18 @@ One of these days, I'll get around to properly learning Haskell.
 
 ## Electronics
 
-Although I'm a mechanical engineer by (undergraduate) training, I love taking
-electronic devices apart. This started as an interest in robotics, but quickly
-became a more general enthusiasm for microcontrollers and such. I'm mostly
-familiar with Atmel's ATmega microcontrollers, but I've also done a little TI's
-MSP430 and ARM (though not enough to setup a toolchain on the spot). I can do
-a pretty decent job with PCB layout and have had no total failures arrive from
-[OSH Park](https://oshpark.com/).
+Although I'm a mechanical engineer by training, I love taking electronic
+devices apart. This started as an interest in robotics, but quickly became
+a more general enthusiasm for microcontrollers and such. I'm mostly familiar
+with Atmel's ATmega microcontrollers, but I've also done a little with TI's
+MSP430 and ARM Cortex M3/M4 (though not enough to setup a toolchain on the
+spot). I can do a pretty decent job with PCB layout and have had no total
+failures arrive from [OSH Park](https://oshpark.com/).
 
 ## Other
 
-I enjoy craft beer. North Coast's Old Rasputin is my favorite.
+I enjoy craft beer. North Coast's Old Rasputin is my favorite (in the picture
+above, I'm about to enjoy a flight at North Coast Brewing Co. in Fort Bragg,
+CA).
 
 I play guitar and [listen to music](http://www.last.fm/user/Vorsorken).
