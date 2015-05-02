@@ -69,6 +69,6 @@ ifdef MSG
 else
 	ghp-import -m "Generate Pelican site" $(OUTPUTDIR)
 endif
-	git push $(GHP_URL) gh-pages:$(GHP_BRANCH)
+	git push $(GHP_URL) gh-pages:$(GHP_BRANCH) --force
 
 .PHONY: html help clean regenerate serve devserver publish github

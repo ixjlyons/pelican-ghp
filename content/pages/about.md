@@ -3,7 +3,7 @@ URL:
 save_as: index.html
 
 <figure style="float: right">
-    <img src="{filename}/images/north-coast.jpg"
+    <img src="../images/north-coast.jpg"
         width=250 height=250/>
 </figure>
 

@@ -11,8 +11,25 @@ PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
 
-PLUGIN_PATHS = ["pelican-plugins"]
-PLUGINS = ["render_math"]
+PLUGIN_PATHS = ["pelican-plugins", "custom-plugins"]
+PLUGINS = ["render_math", "references"]
+
+REFERENCES = {
+    'template':
+        """
+        <p>
+            <font color="#244668">
+                {authors} ({year}).
+            </font>
+            <br>
+            {title},
+            <br>
+            <font color="#536f8b">
+                <i>{proc}</i>, {tail}.
+            </font>
+        </p>
+        """
+}
 
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
