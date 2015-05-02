@@ -2,8 +2,10 @@ Title: About
 URL:
 save_as: index.html
 
-<img src="{filename}/images/north-coast.jpg"
-    border=0 width=250 height=250 align=right hspace=10 vspace=10>
+<figure style="float: right">
+    <img src="{filename}/images/north-coast.jpg"
+        width=250 height=250/>
+</figure>
 
 Hello, I'm Kenneth Lyons.
 
