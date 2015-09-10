@@ -37,6 +37,7 @@ TRANSLATION_FEED_ATOM = None
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/ixjlyons'),
+          ('gitlab', 'https://gitlab.com/u/ixjlyons'),
           ('bitbucket', 'https://bitbucket.org/ixjlyons'),
           ('linkedin', 'https://www.linkedin.com/pub/kenneth-lyons/70/61b/21b'))
 
