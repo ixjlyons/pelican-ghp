@@ -24,6 +24,13 @@ Conference Posters and Abstracts
 
 #. .. reference::
     :authors: <strong>K. R. Lyons</strong> and Joshi, S. S.
+    :year: 2015
+    :title: Real-Time Myoelectric Control of a Virtual Upper Limb Prosthesis via Lower Leg Gestures: Preliminary Results
+    :proc: Annual Meeting of the Society for Neuroscience (SfN)
+    :tail: Chicago, IL <br><a href="https://bitbucket.org/ixjlyons/sfn2015-poster/downloads/sfn2015-final.pdf">[poster]</a>
+
+#. .. reference::
+    :authors: <strong>K. R. Lyons</strong> and Joshi, S. S.
     :year: 2014
     :title: Arm prosthetic control through electromyographic recognition of leg gestures
     :proc: Annual Meeting of the Society for Neuroscience (SfN)
