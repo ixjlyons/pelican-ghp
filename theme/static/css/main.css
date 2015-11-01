@@ -12,16 +12,14 @@
 @import url("reset.css");
 @import url("pygment.css");
 @import url("typogrify.css");
-@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Fanwood+Text);
 
 /***** Global *****/
 /* Body */
 body {
     background: #F5F4EF;
     color: #000305;
-    font-size: 85%; /* Base font size: 14px */
-    font-family: 'Droid Serif', Times, serif;
+    font-family: 'Fanwood Text', Times, serif;
     line-height: 1.429;
     margin: 0;
     padding: 0;
@@ -37,10 +35,10 @@ h5 {font-size: 1.143em}	/* 16px */
 h6 {font-size: 1em}		/* 14px */
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 400;
+	font-weight: 300;
 	line-height: 1.1;
 	margin-bottom: .8em;
-    font-family: 'Yanone Kaffeesatz', arial, sans-serif;
+    font-family: 'Fanwood Text', arial, sans-serif;
 }
 
 h3, h4, h5, h6 { margin-top: .8em; }

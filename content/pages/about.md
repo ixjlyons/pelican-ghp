@@ -1,19 +1,4 @@
 Title: About
-URL:
-save_as: index.html
-
-<figure style="float: right">
-    <img src="../images/north-coast.jpg"
-        width=250 height=250/>
-</figure>
-
-Hello, I'm Kenneth Lyons.
-
-I am a PhD student in the Mechanical and Aerospace Engineering department at UC
-Davis. I work in the Robotics, Autonomous Systems, and Controls Laboratory
-(RASCAL), where I run my own research studies on prosthetic control and assist
-in other human machine interface studies via Android application development
-and data analysis. Here is some stuff I'm interested in:
 
 ## Research
 

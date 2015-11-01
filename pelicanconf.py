@@ -14,6 +14,11 @@ DEFAULT_LANG = 'en'
 PLUGIN_PATHS = ["pelican-plugins", "custom-plugins"]
 PLUGINS = ["render_math", "references"]
 
+DISPLAY_PAGES_ON_MENU = False
+
+MENUITEMS = [('About', SITEURL+'/pages/about.html'),
+             ('Publications', SITEURL+'/pages/publications.html')]
+
 REFERENCES = {
     'template':
         """
