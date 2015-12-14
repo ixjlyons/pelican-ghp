@@ -7,9 +7,9 @@ Papers
 #. .. reference::
     :authors: I. M. Skavhaug, <strong>K. R. Lyons</strong>, A. Nemchuk, S. Muroff, and S. Joshi
     :year: 2015
-    :title: Two-Dimensional Cursor Control from a Single-Site Surface Electromyography Signal: Characterization of Learning
+    :title: Learning to Modulate the Partial Powers of a Single sEMG Power Spectrum Through a Novel Human-Computer Interface
     :proc: Human Movement Science
-    :tail: (in revision)
+    :tail: (accepted)
 
 #. .. reference::
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
