@@ -30,7 +30,7 @@ REFERENCES = {
             {title},
             <br>
             <font color="#536f8b">
-                <i>{proc}</i>, {tail}.
+                <i>{proc}</i> {tail}
             </font>
         </p>
         """
@@ -44,7 +44,7 @@ TRANSLATION_FEED_ATOM = None
 SOCIAL = (('github', 'https://github.com/ixjlyons'),
           ('gitlab', 'https://gitlab.com/u/ixjlyons'),
           ('bitbucket', 'https://bitbucket.org/ixjlyons'),
-          ('linkedin', 'https://www.linkedin.com/pub/kenneth-lyons/70/61b/21b'))
+          ('linkedin', 'https://www.linkedin.com/in/ixjlyons'))
 
 STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {

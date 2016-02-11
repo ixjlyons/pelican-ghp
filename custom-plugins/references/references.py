@@ -36,7 +36,7 @@ def pelican_init(pelicanobj):
     Sets up the user settings for the plugin.
     """
     global settings
-    settings['template'] = "<p>{authors}, ({year}), <i>{proc}</i>, {tail}.</p>"
+    settings['template'] = "<p>{authors}, ({year}), <i>{proc}</i>. {tail}</p>"
 
     try:
         user_settings = pelicanobj.settings['REFERENCES']
