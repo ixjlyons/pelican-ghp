@@ -9,7 +9,7 @@ Papers
     :year: 2016
     :title: Learning to Modulate the Partial Powers of a Single sEMG Power Spectrum Through a Novel Human-Computer Interface
     :proc: Human Movement Science
-    :tail: <b> </b>
+    :tail: <br><a href="http://dx.doi.org/10.1016/j.humov.2015.12.003">[link]</a>
 
 #. .. reference::
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
