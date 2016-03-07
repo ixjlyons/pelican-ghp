@@ -5,6 +5,27 @@ Papers
 ------
 
 #. .. reference::
+    :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
+    :year: 2016
+    :title: Myoelectric Control of a Simulated Robotic Arm via Homologous Leg Movements: Preliminary Results
+    :proc: IEEE International Conference of the Engineering in Medicine and Biology Society (EMBC)
+    :tail: , Orlando, FL (submitted).
+
+#. .. reference::
+    :authors: I. M. Skavhaug, K. R. Lyons, S. D. Muroff, H. Chen, L. Barry, B. Korte, and S. S. Joshi
+    :year: 2016
+    :title: Fitts’ Law Evaluation of a Passive Rotation Paradigm for Two-Dimensional Cursor Control with a Single sEMG Signal
+    :proc: IEEE International Conference of the Engineering in Medicine and Biology Society (EMBC)
+    :tail: , Orlando, FL (submitted).
+
+#. .. reference::
+    :authors: J. Varley, S. Sridhar, J. Weisz, E. Rand, S. Joshi, K. Lyons, and P. Allen
+    :year: 2016
+    :title: Human Robot Interface for Assistive Grasping
+    :proc: IEEE International Symosium on Robot and Human Interactive Communication (RO-MAN)
+    :tail: , Columbia University, New York (submitted).
+
+#. .. reference::
     :authors: I. M. Skavhaug, <strong>K. R. Lyons</strong>, A. Nemchuk, S. Muroff, and S. Joshi
     :year: 2016
     :title: Learning to Modulate the Partial Powers of a Single sEMG Power Spectrum Through a Novel Human-Computer Interface
@@ -15,14 +36,14 @@ Papers
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
     :year: 2015
     :title: A Case Study on Classification of Foot Gestures via Surface Electromyography
-    :proc: Annu. Conf. Rehabil. Eng. Assist. Technol. Soc. Am. (RESNA)
+    :proc: Annuual Conference of the Rehabiltation Engineering and Assistive Technology Society of North America (RESNA)
     :tail: , Denver, CO. <br><a href="http://www.resna.org/sites/default/files/conference/2015/pdf_versions/mobility/student_scientific/130.pdf">[paper]</a> <a href="https://bitbucket.org/ixjlyons/resna2015-poster/downloads/resna2015-final.pdf">[poster]</a>
 
 #. .. reference::
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
     :year: 2013
     :title: Paralyzed Subject Controls Telepresence Mobile Robot Using Novel sEMG Brain-Computer Interface: Case Study
-    :proc: IEEE Int. Conf. Rehabil. Robot. (ICORR)
+    :proc: IEEE International Conference on Rehabilitation Robotics (ICORR)
     :tail: , Seattle, WA. <br><a href="http://dx.doi.org/10.1109/ICORR.2013.6650428">[link]</a>
 
 
