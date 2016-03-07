@@ -11,8 +11,7 @@ Hello, I'm Kenneth Lyons.
 
 I am a PhD student in the Mechanical and Aerospace Engineering department at UC
 Davis. I work in the [Robotics, Autonomous Systems, and Controls Laboratory
-(RASCAL)](https://research.engineering.ucdavis.edu/rascal/), where I run my own
-research studies on prosthesis control and assist in other human machine
-interface studies via Android application development and data analysis.
+(RASCAL)](https://research.engineering.ucdavis.edu/rascal/), where I develop
+ways for humans to control machines.
 
 * [curriculum vitae](https://www.sharelatex.com/github/repos/ixjlyons/cv/builds/latest/output.pdf)
