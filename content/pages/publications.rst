@@ -12,13 +12,6 @@ Papers
     :tail: , Orlando, FL (submitted).
 
 #. .. reference::
-    :authors: I. M. Skavhaug, K. R. Lyons, S. D. Muroff, H. Chen, L. Barry, B. Korte, and S. S. Joshi
-    :year: 2016
-    :title: Fitts’ Law Evaluation of a Passive Rotation Paradigm for Two-Dimensional Cursor Control with a Single sEMG Signal
-    :proc: IEEE International Conference of the Engineering in Medicine and Biology Society (EMBC)
-    :tail: , Orlando, FL (submitted).
-
-#. .. reference::
     :authors: J. Varley, S. Sridhar, J. Weisz, E. Rand, S. Joshi, K. Lyons, and P. Allen
     :year: 2016
     :title: Human Robot Interface for Assistive Grasping
