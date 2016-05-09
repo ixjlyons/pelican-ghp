@@ -9,7 +9,7 @@ Papers
     :year: 2016
     :title: Myoelectric Control of a Simulated Robotic Arm via Homologous Leg Movements: Preliminary Results
     :proc: IEEE International Conference of the Engineering in Medicine and Biology Society (EMBC)
-    :tail: , Orlando, FL (submitted).
+    :tail: , Orlando, FL (accepted).
 
 #. .. reference::
     :authors: J. Varley, S. Sridhar, J. Weisz, E. Rand, S. Joshi, K. Lyons, and P. Allen
