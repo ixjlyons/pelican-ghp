@@ -8,7 +8,7 @@ Papers
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
     :year: 2016
     :title: Myoelectric Control of a Simulated Robotic Arm via Homologous Leg Movements: Preliminary Results
-    :proc: IEEE International Conference of the Engineering in Medicine and Biology Society (EMBC)
+    :proc: Proceedings of the IEEE Engineering in Medicine and Biology Society Conference (EMBC)
     :tail: , Orlando, FL (accepted).
 
 #. .. reference::
@@ -16,7 +16,7 @@ Papers
     :year: 2016
     :title: Learning to Modulate the Partial Powers of a Single sEMG Power Spectrum Through a Novel Human-Computer Interface
     :proc: Human Movement Science
-    :tail: <br><a href="http://dx.doi.org/10.1016/j.humov.2015.12.003">[link]</a>
+    :tail: , vol. 47, pp. 60--69, <br><a href="http://dx.doi.org/10.1016/j.humov.2015.12.003">[link]</a>
 
 #. .. reference::
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
@@ -29,7 +29,7 @@ Papers
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
     :year: 2013
     :title: Paralyzed Subject Controls Telepresence Mobile Robot Using Novel sEMG Brain-Computer Interface: Case Study
-    :proc: IEEE International Conference on Rehabilitation Robotics (ICORR)
+    :proc: Proceedings of the IEEE International Conference on Rehabilitation Robotics (ICORR)
     :tail: , Seattle, WA. <br><a href="http://dx.doi.org/10.1109/ICORR.2013.6650428">[link]</a>
 
 
