@@ -12,13 +12,6 @@ Papers
     :tail: , Orlando, FL (accepted).
 
 #. .. reference::
-    :authors: J. Varley, S. Sridhar, J. Weisz, E. Rand, S. Joshi, K. Lyons, and P. Allen
-    :year: 2016
-    :title: Human Robot Interface for Assistive Grasping
-    :proc: IEEE International Symosium on Robot and Human Interactive Communication (RO-MAN)
-    :tail: , Columbia University, New York (submitted).
-
-#. .. reference::
     :authors: I. M. Skavhaug, <strong>K. R. Lyons</strong>, A. Nemchuk, S. Muroff, and S. Joshi
     :year: 2016
     :title: Learning to Modulate the Partial Powers of a Single sEMG Power Spectrum Through a Novel Human-Computer Interface
