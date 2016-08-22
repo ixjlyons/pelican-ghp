@@ -7,7 +7,7 @@ Papers
 #. .. reference::
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
     :year: 2016
-    :title: Myoelectric Control of a Simulated Robotic Arm via Homologous Leg Movements: Preliminary Results
+    :title: Real-Time Evaluation of a Myoelectric Control Method for High-Level Upper Limb Amputees Based on Homologous Leg Movements
     :proc: Proceedings of the IEEE Engineering in Medicine and Biology Society Conference (EMBC)
     :tail: , Orlando, FL.
 
