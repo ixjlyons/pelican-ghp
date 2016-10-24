@@ -16,70 +16,63 @@ Upper limb prosthesis control is an interesting field, both because of the
 methods used and the potential for breakthroughs. Current state of the art in
 arm prosthesis control is mainly relevant to individuals with amputations
 distal to ("below") the elbow only. If I had one piece of insight to offer
-after extensive reading on the topic, it would be:
-
-> Robotics technology is soon going to be offering prosthetic arms with
-> near-human functionality, but the technology for controlling them is far
-> behind. It's like having a modern processor but only being able to program it
-> in assembly: you can do it, but nobody wants to.
+after extensive reading on the topic, it would be that robotics technology is
+soon going to be offering prosthetic arms with near-human functionality while
+the technology for controlling them is far behind. It's like having a modern
+processor but only being able to program it in assembly: you can do it, but
+nobody wants to.
 
 I'm also interested in leveraging EMG signals of face/head/neck muscles for
 computer interface control. While prosthesis control via EMG is for amputees,
 this kind of research is relevant to individuals with high spinal cord injuries
 (head muscles are innervated at the brain stem so they are unaffected by SCI).
+The challenge in this area is estimating the user's intent from a small number
+of noisy signals. I predict that the breakthroughts here will involve a deep
+consideration of the processes involved in human motor skill acquisition and
+development as well as their interaction with adaptive machine learning
+algorithms.
 
-Other research areas that I'm interested in and can have a reasonably competent
-conversation about:
-
-* motor learning/control
-* brain-computer interfaces
-* machine learning
-* signal processing
-
-I'm interested in many things beyond that tiny list. I keep on top of things by
-regularly consuming RSS feeds from journals like Nature, Science, PNAS, and
-a bunch more. For that, I have [Feedly](https://feedly.com) to thank (the
-Android app is indispensible).
+Overall, I'm interested in many things. I keep on top of current goings-on by
+regularly consuming RSS feeds from journals like Nature, Science,
+PNAS, and a bunch more. For that, I have [Feedly](https://feedly.com) to thank.
 
 
 ## Running
 
 I run around parks and occasionally the UC Davis arboretum in the mornings. I'd
-consider myself a somewhat serious hobbyist runner. At one point, I was running
-200+ km per month, but I have scaled back to take more rest days (4 runs per
-week now). This makes the whole running lifestyle more enjoyable: less knee
-stress, longer runs are more feasible, breaking a PR is much easier when you
-aren't still tired from yesterday.
+consider myself a somewhat serious hobbyist runner -- at one point, I was
+running 200+ km per month, but I have scaled back to take more rest days and
+mix in some strength training. My favorite distance is 10 km.
+
+- [Runkeeper](https://runkeeper.com/user/ixjlyons)
+- [Smashrun](http://smashrun.com/ixjlyons)
+
 
 ## Linux
 
 I am a Linux enthusiast ([Linux From Scratch](http://www.linuxfromscratch.org/)
-is my idea of a fun weekend). I go to [LUGOD](http://www.lugod.org/) meetings
-when I can. You can look at my [dotfiles](http://github.com/ixjlyons/dotfiles)
-if you want. My setup generally includes Arch, a tiling window manager (i3 at
-the moment), fish, and vim.
+is my idea of a fun weekend) and serve as `typescript` (secretary) for my local
+LUG ([LUGOD](http://www.lugod.org/)).
 
-Here are some projects I think are cool:
+My setup generally includes the Arch Linux distribution, i3 tiling window
+manager, fish, and vim. You can look at my
+[dotfiles](http://github.com/ixjlyons/dotfiles) if you want.
 
-* [qtile](https://github.com/qtile/qtile) : "A small, scriptable tiling window
-  manager written in Python."
-* [qutebrowser](https://github.com/The-Compiler/qutebrowser) : "A
-  keyboard-driven, vim-like browser based on PyQt5 and QtWebKit."
 
 ## Programming
 
-I speak Python, C/C++, Java, MATLAB/Octave, know just enough Lua to write
-scripts in [v-rep](http://www.v-rep.eu/), and I once wrote a simple TCP server
-in C#. My first language was C, and I'm grateful for that. Python is now my
-main language, and I'm grateful for that too.
+I speak Python, C, Java, and MATLAB/Octave well, and know bits of others. My
+first language was C, and I'm grateful for that. Python is now my main
+language, and I'm grateful for that too.
 
-I can write Android apps, but I fell behind the standards back around the
-release of Ice Cream Sandwich, when Fragments became a thing (technically they
-were introduced with Honeycomb, but nobody cares). I still casually keep up
-with best practices (Material design, etc.) but haven't actually used any of
-them. I definitely need to sit down and make the switch to Android Studio.
+I can write Android apps and did so as a part of human computer interface
+research at
+[RASCAL](https://research.engineering.ucdavis.edu/rascal/) for a few years.
+I have since lost interest and fell behind the standards back around the
+release of Ice Cream Sandwich.
 
 One of these days, I'll get around to properly learning Haskell.
+
 
 ## Electronics
 
@@ -89,7 +82,10 @@ a more general enthusiasm for microcontrollers and such. I'm mostly familiar
 with Atmel's ATmega microcontrollers, but I've also done a little with TI's
 MSP430 and ARM Cortex M3/M4 (though not enough to setup a toolchain on the
 spot). I can do a pretty decent job with PCB layout and have had no total
-failures arrive from [OSH Park](https://oshpark.com/).
+failures arrive from [OSH Park](https://oshpark.com/). At some point, I would
+really like to build up some skills in designing and building guitar effects
+pedals.
+
 
 ## Other
 
