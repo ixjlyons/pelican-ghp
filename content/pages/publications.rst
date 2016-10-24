@@ -9,7 +9,7 @@ Papers
     :year: 2016
     :title: Real-Time Evaluation of a Myoelectric Control Method for High-Level Upper Limb Amputees Based on Homologous Leg Movements
     :proc: Proceedings of the IEEE Engineering in Medicine and Biology Society Conference (EMBC)
-    :tail: , Orlando, FL.
+    :tail: , Orlando, FL. <br><a href="http://dx.doi.org/10.1109/EMBC.2016.7592184">[paper]</a>
 
 #. .. reference::
     :authors: I. M. Skavhaug, <strong>K. R. Lyons</strong>, A. Nemchuk, S. Muroff, and S. Joshi
