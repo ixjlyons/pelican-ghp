@@ -22,7 +22,7 @@ Papers
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
     :year: 2015
     :title: A Case Study on Classification of Foot Gestures via Surface Electromyography
-    :proc: Annuual Conference of the Rehabiltation Engineering and Assistive Technology Society of North America (RESNA)
+    :proc: Annual Conference of the Rehabiltation Engineering and Assistive Technology Society of North America (RESNA)
     :tail: , Denver, CO. <br><a href="http://www.resna.org/sites/default/files/conference/2015/pdf_versions/mobility/student_scientific/130.pdf">[paper]</a> <a href="https://bitbucket.org/ixjlyons/resna2015-poster/downloads/resna2015-final.pdf">[poster]</a>
 
 #. .. reference::
