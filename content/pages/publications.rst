@@ -19,6 +19,13 @@ Papers
     :tail: , vol. 47, pp. 60--69, <br><a href="http://dx.doi.org/10.1016/j.humov.2015.12.003">[paper]</a>
 
 #. .. reference::
+    :authors: J. Varley, S. Sridhar, J. Weisz, E. Rand, S. Joshi, <strong>K. Lyons</strong>, and P. Allen
+    :year: 2016
+    :title: Human Robot Interface for Assistive Grasping
+    :proc: Socially & Physically Assistive Robotics for Humanity (workshop at Robotics: Science and Systems)
+    :tail: , Ann Arbor, MI. <br><a href="https://allrobotshelping.files.wordpress.com/2016/06/varley2016human.pdf">[paper]</a>
+
+#. .. reference::
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
     :year: 2015
     :title: A Case Study on Classification of Foot Gestures via Surface Electromyography
@@ -35,6 +42,13 @@ Papers
 
 Conference Posters and Abstracts
 --------------------------------
+
+#. .. reference::
+    :authors: I. M. Skavhaug, <strong>K. R. Lyons</strong>, S. D. Muroff, H. Chen, L. Barry, B. Korte, and S. S. Joshi
+    :year: 2016
+    :title: Fitts' Law Evaluation of a Passive Rotation Paradigm for Two-Dimensional Cursor Control with a Single sEMG Signal
+    :proc: Proceedings of the IEEE Engineering in Medicine and Biology Society Conference (EMBC)
+    :tail: , Orlando, FL.
 
 #. .. reference::
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
