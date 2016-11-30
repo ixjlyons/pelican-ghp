@@ -37,7 +37,7 @@ Papers
     :year: 2013
     :title: Paralyzed Subject Controls Telepresence Mobile Robot Using Novel sEMG Brain-Computer Interface: Case Study
     :proc: Proceedings of the IEEE International Conference on Rehabilitation Robotics (ICORR)
-    :tail: , Seattle, WA. <br><a href="http://dx.doi.org/10.1109/ICORR.2013.6650428">[paper]</a>
+    :tail: , Seattle, WA. <br><a href="http://dx.doi.org/10.1109/ICORR.2013.6650428">[paper]</a> <a href="https://dl.dropboxusercontent.com/u/29772209/icorr2013-poster.pdf">[poster]</a>
 
 
 Conference Posters and Abstracts
