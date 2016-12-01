@@ -4,7 +4,7 @@ save_as: index.html
 
 <figure style="float: right">
     <img src="../images/north-coast.jpg"
-        width=250 height=250/>
+        width=220 height=220/>
 </figure>
 
 Hello, I'm Kenneth Lyons.

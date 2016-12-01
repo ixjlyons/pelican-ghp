@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Kenneth Lyons'
 SITENAME = 'Kenneth Lyons'
-SITESUBTITLE = 'thought for your thoughts'
 SITEURL = ''
 THEME = 'theme'
 PATH = 'content'
@@ -15,7 +14,6 @@ PLUGIN_PATHS = ["pelican-plugins", "custom-plugins"]
 PLUGINS = ["render_math", "references"]
 
 DISPLAY_PAGES_ON_MENU = False
-
 MENUITEMS = [('Home', SITEURL+'/index.html'),
              ('About', SITEURL+'/pages/about.html'),
              ('Publications', SITEURL+'/pages/publications.html')]
@@ -37,15 +35,11 @@ REFERENCES = {
         """
 }
 
+#AVATAR = SITEURL+'/images/north-coast.jpg'
+
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
-
-# Social widget
-SOCIAL = (('github', 'https://github.com/ixjlyons'),
-          ('gitlab', 'https://gitlab.com/u/ixjlyons'),
-          ('bitbucket', 'https://bitbucket.org/ixjlyons'),
-          ('linkedin', 'https://www.linkedin.com/in/ixjlyons'))
 
 STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
