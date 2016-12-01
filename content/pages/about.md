@@ -27,7 +27,7 @@ computer interface control. While prosthesis control via EMG is for amputees,
 this kind of research is relevant to individuals with high spinal cord injuries
 (head muscles are innervated at the brain stem so they are unaffected by SCI).
 The challenge in this area is estimating the user's intent from a small number
-of noisy signals. I predict that the breakthroughts here will involve a deep
+of noisy signals. I predict that the breakthroughs here will involve a deep
 consideration of the processes involved in human motor skill acquisition and
 development as well as their interaction with adaptive machine learning
 algorithms.
@@ -66,10 +66,9 @@ first language was C, and I'm grateful for that. Python is now my main
 language, and I'm grateful for that too.
 
 I can write Android apps and did so as a part of human computer interface
-research at
-[RASCAL](https://research.engineering.ucdavis.edu/rascal/) for a few years.
-I have since lost interest and fell behind the standards back around the
-release of Ice Cream Sandwich.
+research at [RASCAL](https://research.engineering.ucdavis.edu/rascal/) for
+a few years. I have since lost interest and fell behind the standards back
+around the release of Ice Cream Sandwich.
 
 One of these days, I'll get around to properly learning Haskell.
 
