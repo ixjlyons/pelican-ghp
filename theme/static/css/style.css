@@ -127,7 +127,7 @@ aside {
   top: 0;
   left: 0;
   padding: 30px;
-  background-color: #333;
+  background-color: #2f343f;
   color: #eaedef;
   box-shadow: 0 0 2px black;
   text-align: center;
@@ -175,15 +175,15 @@ aside > h2 {
 
 .nav a
 {
-    color: #eaedef;
+    color: #afb8c5;
     text-decoration: none;
     transition: all .3s ease-in-out;
 }
 
 .nav a:hover
 {
-    color: #222;
-    background-color: #eaedef;
+    color: #f6f0f3;
+    background-color: #5294e2;
 }
 
 .list-bare
