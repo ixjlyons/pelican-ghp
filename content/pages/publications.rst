@@ -19,7 +19,7 @@ Papers
     :tail: , vol. 47, pp. 60--69, <br><a href="http://dx.doi.org/10.1016/j.humov.2015.12.003">[paper]</a>
 
 #. .. reference::
-    :authors: J. Varley, S. Sridhar, J. Weisz, E. Rand, S. Joshi, <strong>K. Lyons</strong>, and P. Allen
+    :authors: J. Varley, S. Sridhar, J. Weisz, E. Rand, <strong>K. Lyons</strong>, S. Joshi, J. Stein, and P. Allen
     :year: 2016
     :title: Human Robot Interface for Assistive Grasping
     :proc: Socially & Physically Assistive Robotics for Humanity (workshop at Robotics: Science and Systems)
