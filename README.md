@@ -9,15 +9,15 @@ generated with [Pelican][pelican].
 Clone the repository:
 
 ```bash
-git clone git@github.com:ixjlyons/pelican-ghp.git
-cd pelican-ghp
+$ git clone git@github.com:ixjlyons/pelican-ghp.git
+$ cd pelican-ghp
 ```
 
 Pull in the submodule for [pelican-plugins][]:
 
 ```bash
-git submodule init
-git submodule update
+$ git submodule init
+$ git submodule update
 ```
 
 Now create a virtual environment and install the dependencies, which are:
@@ -29,9 +29,9 @@ Now create a virtual environment and install the dependencies, which are:
 These are included in `requirements.txt`, the following should work:
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+$ python -m venv .venv
+$ source .venv/bin/activate
+(.venv) $ pip install -r requirements.txt
 ```
 
 
@@ -46,13 +46,13 @@ I prefer the more manual approach with no "background" processes that I would
 probably forget about. Generate the site manually:
 
 ```bash
-make html
+(.venv) $ make html
 ```
 
 Then set up a terminal to serve the site locally:
 
 ```bash
-make serve
+(.venv) $ make serve
 ```
 
 Point the browser of choice to `locahost:8000` to see the result (note: the
@@ -70,7 +70,7 @@ done by pushing the `gh-pages` branch to that separate repository.
 To deploy the site to GitHub Pages:
 
 ```bash
-make github
+(.venv) $ make github
 ```
 
 You can optionally specify a commit message (note: this is not the commit
@@ -78,7 +78,7 @@ message that shows up on the `master` branch of this repository -- those
 commits are separate):
 
 ```bash
-make github MSG="\"Commit message for GHP\""
+(.venv) $ make github MSG="\"Commit message for GHP\""
 ```
 
 
@@ -89,7 +89,7 @@ is likely a good idea to keep it reasonably up to date. Sometimes [pelican][]
 introduces breaking changes.
 
 ```bash
-git submodule update --remote
+$ git submodule update --remote
 ```
 
 
