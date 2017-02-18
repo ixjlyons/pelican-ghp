@@ -23,10 +23,10 @@ REFERENCES = {
         """
         <p>
             <font color="#244668">
-                {authors} ({year}).
+                {year} - <strong>{title}</strong>
             </font>
             <br>
-            {title},
+            {authors}
             <br>
             <font color="#536f8b">
                 <i>{proc}</i> {tail}
