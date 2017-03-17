@@ -14,4 +14,4 @@ Davis. I work in the [Robotics, Autonomous Systems, and Controls Laboratory
 (RASCAL)](https://research.engineering.ucdavis.edu/rascal/), where I develop
 ways for humans to control machines.
 
-* [curriculum vitae](https://dl.dropboxusercontent.com/u/29772209/cv.pdf)
+* [curriculum vitae](https://www.dropbox.com/s/49t8ne7wbfsr0ni/cv.pdf?dl=1)

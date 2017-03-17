@@ -30,14 +30,14 @@ Papers
     :year: 2015
     :title: A Case Study on Classification of Foot Gestures via Surface Electromyography
     :proc: Annual Conference of the Rehabiltation Engineering and Assistive Technology Society of North America (RESNA)
-    :tail: , Denver, CO <br><a href="http://www.resna.org/sites/default/files/conference/2015/pdf_versions/mobility/student_scientific/130.pdf">[paper]</a> <a href="https://dl.dropboxusercontent.com/u/29772209/resna2015-poster.pdf">[poster]</a>
+    :tail: , Denver, CO <br><a href="http://www.resna.org/sites/default/files/conference/2015/pdf_versions/mobility/student_scientific/130.pdf">[paper]</a> <a href="https://www.dropbox.com/s/neho80ckqy08qvc/resna2015-poster.pdf?dl=1">[poster]</a>
 
 .. reference::
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
     :year: 2013
     :title: Paralyzed Subject Controls Telepresence Mobile Robot Using Novel sEMG Brain-Computer Interface: Case Study
     :proc: Proceedings of the IEEE International Conference on Rehabilitation Robotics (ICORR)
-    :tail: , Seattle, WA <br><a href="http://dx.doi.org/10.1109/ICORR.2013.6650428">[paper]</a> <a href="https://dl.dropboxusercontent.com/u/29772209/icorr2013-poster.pdf">[poster]</a>
+    :tail: , Seattle, WA <br><a href="http://dx.doi.org/10.1109/ICORR.2013.6650428">[paper]</a> <a href=""https://www.dropbox.com/s/2o2dfux3h5hcyhs/icorr2013-poster.pdf?dl=1>[poster]</a>
 
 
 Conference Posters and Abstracts
@@ -48,14 +48,14 @@ Conference Posters and Abstracts
     :year: 2016
     :title: Fitts' Law Evaluation of a Passive Rotation Paradigm for Two-Dimensional Cursor Control with a Single sEMG Signal
     :proc: Proceedings of the IEEE Engineering in Medicine and Biology Society Conference (EMBC)
-    :tail: , Orlando, FL <br><a href="https://dl.dropboxusercontent.com/u/29772209/embc2016-poster.pdf">[poster]</a>
+    :tail: , Orlando, FL <br><a href="https://www.dropbox.com/s/prkaanfp2eln2y2/embc2016-poster.pdf?dl=1">[poster]</a>
 
 .. reference::
     :authors: <strong>K. R. Lyons</strong> and S. S. Joshi
     :year: 2015
     :title: Real-Time Myoelectric Control of a Virtual Upper Limb Prosthesis via Lower Leg Gestures: Preliminary Results
     :proc: Annual Meeting of the Society for Neuroscience (SfN)
-    :tail: , Chicago, IL <br><a href="http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=2046f37c-cf96-4c66-a0f7-f5399c3fe08d&cKey=56dab28e-4cd3-4d8e-896e-9e7a3dacf560&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84">[abstract]</a> <a href="https://dl.dropboxusercontent.com/u/29772209/sfn2015-poster.pdf">[poster]</a>
+    :tail: , Chicago, IL <br><a href="http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=2046f37c-cf96-4c66-a0f7-f5399c3fe08d&cKey=56dab28e-4cd3-4d8e-896e-9e7a3dacf560&mKey=d0ff4555-8574-4fbb-b9d4-04eec8ba0c84">[abstract]</a> <a href="https://www.dropbox.com/s/czszh4t34b5fe6l/sfn2015-poster.pdf?dl=1">[poster]</a>
 
 .. reference::
     :authors: I. M. Skavhaug, <strong>K. R. Lyons</strong>, A. Nemchuk, S. Muroff, and S. Joshi
@@ -69,7 +69,7 @@ Conference Posters and Abstracts
     :year: 2014
     :title: Arm Prosthetic Control Through Electromyographic Recognition of Leg Gestures
     :proc: Annual Meeting of the Society for Neuroscience (SfN)
-    :tail: , Washington D.C. <br><a href="http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=dcf68e43-c9ce-47e4-a9e8-7d6b8f22905c&cKey=8f80aa91-325b-4db2-82e0-b25f5dcb0da1&mKey=54c85d94-6d69-4b09-afaa-502c0e680ca7">[abstract]</a> <a href="https://dl.dropboxusercontent.com/u/29772209/sfn2014-poster.pdf">[poster]</a>
+    :tail: , Washington D.C. <br><a href="http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=dcf68e43-c9ce-47e4-a9e8-7d6b8f22905c&cKey=8f80aa91-325b-4db2-82e0-b25f5dcb0da1&mKey=54c85d94-6d69-4b09-afaa-502c0e680ca7">[abstract]</a> <a href="https://www.dropbox.com/s/hqrx15iyq19ui4l/sfn2014-poster.pdf?dl=1">[poster]</a>
 
 .. reference::
     :authors: I. M. Skavhaug, C. Dao, <strong>K. R. Lyons</strong>, A. Powell, L. Davidson, and S. Joshi

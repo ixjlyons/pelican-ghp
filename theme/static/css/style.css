@@ -111,6 +111,15 @@ a:link { color:#244668; text-decoration:none; }
 a:active { color:#244668; text-decoration:none; }
 a:hover { text-decoration: underline; }
 
+article a:link img { 
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+article a:hover img { 
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
 /* Code */
 .highlight pre {
   font-size: 14px;

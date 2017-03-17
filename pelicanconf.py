@@ -11,11 +11,12 @@ TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
 
 PLUGIN_PATHS = ["pelican-plugins", "custom-plugins"]
-PLUGINS = ["render_math", "references"]
+PLUGINS = ["render_math", "references", "pelican_youtube"]
 
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [('Home', SITEURL+'/index.html'),
              ('About', SITEURL+'/pages/about.html'),
+             ('Projects', SITEURL+'/pages/projects.html'),
              ('Publications', SITEURL+'/pages/publications.html')]
 
 REFERENCES = {
