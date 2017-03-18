@@ -8,7 +8,6 @@ PyGesture
    :alt: Screenshot of PyGesture
    :target: {filename}/pages/pygesture.rst
 
-
 Walk Again
 ----------
 
@@ -16,6 +15,14 @@ Walk Again
    :width: 2in
    :alt: Photo of the Walk Again LED feedback system
    :target: {filename}/pages/walkagain.rst
+
+MyoSwim
+-------
+
+.. figure:: https://github.com/ixjlyons/myoswim/raw/master/img/screenshot.png?raw=true 
+   :width: 2in
+   :alt: Screenshot of MyoSwim
+   :target: {filename}/pages/myoswim.rst
 
 SecondEyes
 ----------
