@@ -10,7 +10,7 @@ PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
 
-PLUGIN_PATHS = ["custom-plugins"]
+PLUGIN_PATHS = ["plugins"]
 PLUGINS = ["references"]
 
 DISPLAY_PAGES_ON_MENU = False
