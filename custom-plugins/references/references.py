@@ -5,50 +5,53 @@ from docutils.parsers.rst import directives, Directive
 
 from pelican import signals
 
-settings = dict()
-
 
 class Reference(Directive):
+    """A reference.
 
-    global settings
+    Example
+    -------
+    .. reference:: journal
+        :author: A. Einstein, B. Podolsky, and N. Rosen
+        :title: Can quantum-mechanical description of physical reality be considered complete?
+        :journal: Physical Review
+        :volume: 47
+        :number: 10
+        :pages: 777
+        :paper: https://doi.org/10.1103/PhysRev.47.777
+    """
+
     required_arguments = 0
-    optional_arguments = 0
+    optional_arguments = 12
     option_spec = {
-        'authors': directives.unchanged_required,
+        'author': directives.unchanged_required,
         'title': directives.unchanged_required,
         'proc': directives.unchanged_required,
         'year': directives.unchanged_required,
-        'tail': directives.unchanged_required
+        'tail': directives.unchanged_required,
+        'paper': directives.unchanged_required,
+        'poster': directives.unchanged_required,
+        'abstract': directives.unchanged_required,
+        'address': directives.unchanged_required,
+        'volume': directives.unchanged_required,
+        'number': directives.unchanged_required,
+        'pages': directives.unchanged_required
     }
     final_argument_whitespace = False
     has_content = False
 
     def run(self):
-        html = settings['template'].format(**self.options)
-
-        return [
-            nodes.raw('', html, format='html')
-        ]
+        template = pelican_generator.get_template('publication')
+        html = template.render(publication=self.options)
+        return [nodes.raw('', html, format='html')]
 
 
-def pelican_init(pelicanobj):
-    """
-    Sets up the user settings for the plugin.
-    """
-    global settings
-    settings['template'] = "<p>{authors}, ({year}), <i>{proc}</i>. {tail}</p>"
-
-    try:
-        user_settings = pelicanobj.settings['REFERENCES']
-    except KeyError:
-        return settings
-
-    for key, value in ((key, user_settings[key]) for key in user_settings):
-        settings[key] = value
-
-    return settings
+pelican_generator = None
+def get_template_env(generator):
+    global pelican_generator
+    pelican_generator = generator
 
 
 def register():
-    signals.initialized.connect(pelican_init)
     directives.register_directive('reference', Reference)
+    signals.generator_init.connect(get_template_env)

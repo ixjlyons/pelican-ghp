@@ -1,0 +1,54 @@
+{% block publication %}
+    <p>
+        ({{ publication.year }})
+        <span class="pubtitle">{{ publication.title }}</span>
+        <br>
+        {{ publication.author }}
+        <br>
+        <span class="pubattrs">
+            <i>{{ publication.proc }}</i>
+
+            {%- if publication.address -%}
+                , {{ publication.address }}
+            {% endif %}
+
+            {%- if publication.volume -%}
+                , vol. {{ publication.volume }}
+            {% endif %}
+
+            {%- if publication.number -%}
+                , no. {{ publication.number }}
+            {% endif %}
+
+            {%- if publication.pages -%}
+                , pp. {{ publication.pages }}
+            {% endif %}
+        </span>
+
+        {% if publication.paper or publication.poster or publication.abstract %}
+            <br>
+            {% if publication.paper %}
+                <a href={{ publication.paper }}>
+                    <i class="fa fa-file-text-o"></i>
+                    &nbsp;paper
+                </a>
+                &nbsp;
+            {% endif %}
+
+            {% if publication.poster %}
+                <a href={{ publication.poster }}>
+                    <i class="fa fa-picture-o"></i>
+                    &nbsp;poster
+                </a>
+                &nbsp;
+            {% endif %}
+
+            {% if publication.abstract %}
+                <a href={{ publication.abstract }}>
+                    <i class="fa fa-file-text-o"></i>
+                    &nbsp;abstract
+                </a>
+            {% endif %}
+        {% endif %}
+    </p>
+{% endblock %}
