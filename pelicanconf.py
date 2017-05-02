@@ -10,8 +10,8 @@ PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
 
-PLUGIN_PATHS = ["pelican-plugins", "custom-plugins"]
-PLUGINS = ["render_math", "references", "pelican_youtube"]
+PLUGIN_PATHS = ["custom-plugins"]
+PLUGINS = ["references"]
 
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [('Home', SITEURL+'/index.html'),
@@ -35,6 +35,13 @@ REFERENCES = {
         </p>
         """
 }
+
+# tuple of (name, fontawesome icon, link) pairs
+SOCIAL = [
+    ('GitHub', 'fa-github', 'https://github.com/ixjlyons'),
+    ('LinkedIn', 'fa-linkedin-square', 'https://www.linkedin.com/in/ixjlyons/'),
+    ('Resume', 'fa-file-text-o', 'https://www.dropbox.com/s/49t8ne7wbfsr0ni/cv.pdf?dl=1')
+]
 
 #AVATAR = SITEURL+'/images/north-coast.jpg'
 
