@@ -13,17 +13,9 @@ $ git clone git@github.com:ixjlyons/pelican-ghp.git
 $ cd pelican-ghp
 ```
 
-Pull in the submodule for [pelican-plugins][]:
-
-```bash
-$ git submodule init
-$ git submodule update
-```
-
 Now create a virtual environment and install the dependencies, which are:
 
 * [pelican][]
-* [markdown][]
 * [ghp-import][]
 
 These are included in `requirements.txt`, the following should work:
@@ -82,18 +74,6 @@ commits are separate):
 ```
 
 
-## Updating the Plugins
-
-It is probably not necessary to update the plugins with every commit, but it
-is likely a good idea to keep it reasonably up to date. Sometimes [pelican][]
-introduces breaking changes.
-
-```bash
-$ git submodule update --remote
-```
-
-
 [pelican]: http://blog.getpelican.com/
-[markdown]: https://pythonhosted.org/Markdown/
 [pelican-plugins]: https://github.com/getpelican/pelican-plugins
 [ghp-import]: https://github.com/davisp/ghp-import
