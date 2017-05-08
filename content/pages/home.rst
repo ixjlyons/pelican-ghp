@@ -44,6 +44,9 @@ communication with real-time simulation software.
 
 - `PyGesture on GitHub <https://github.com/ixjlyons/pygesture>`_
 
+*tags: Python, Qt, signal processing, machine learning, electrophysiology,
+human subject studies, prosthetics, robotics*
+
 Walk Again
 ----------
 
@@ -64,6 +67,9 @@ project involving academic and industry teams.
 - `High-impact report on some findings from the project <walkagain-scireports_>`_
 - `YouTube video about the project with me in it <https://youtube.com/watch?v=Lco3U600aS4>`_
 - `YouTube video of more recent happenings <https://youtube.com/watch?v=PIIXhih5Qpg>`_
+
+*tags: machine learning, machining, PCB design, electrophysiology, Android
+development, human-computer interaction*
 
 .. _Mind in Motion: http://www.nature.com/scientificamerican/journal/v307/n3/full/scientificamerican0912-58.html
 .. _walkagain-news: https://www.ucdavis.edu/news/engineers-take-part-walk-again-effort-world-cup-help-disabled
@@ -92,6 +98,8 @@ out.
 
 - `MyoSwim on GitHub <myoswim-gh_>`_
 
+*tags: electrophysiology, gamification, Android development, libGDX*
+
 .. _myoswim-gh: https://github.com/ixjlyons/myoswim
 .. _World Science Festival: http://www.worldsciencefestival.com/
 
@@ -118,6 +126,9 @@ Robotics (ICORR) in 2013.
 - `ICORR paper <icorr-paper_>`_
 - `ICORR poster <icorr-poster_>`_
 - `Video of the robot moving around <secondeyes-youtube_>`_
+
+*tags: electronics, robotics, teleoperation, electrophysiology, Android
+development, Arduino*
 
 .. _icorr-paper: https://doi.org/10.1109/ICORR.2013.6650428
 .. _icorr-poster: https://doi.org/10.5281/zenodo.569066
