@@ -41,15 +41,16 @@
         </a>
     </center>
 
-    <nav class="nav">
-    <ul class="list-bare">
-      {% if SOCIAL %}
-        {% for name, icon, link in SOCIAL %}
-        <li><i class="fa {{ icon }}" aria-hidden="true"></i><a class="nav__link" href="{{ link }}">{{ name }}</a></li>
-        {% endfor %}
-      {% endif %}
-    </ul>
-    </nav>
+    {% if SOCIAL %}
+      <nav class="nav">
+        <div class="list-group">
+          {% for name, icon, link in SOCIAL %}
+            <a class="list-group-item" href="{{ link }}">
+              <i class="fa {{ icon }} fa-fw" aria-hidden="true"></i>&nbsp; {{ name }}</a>
+          {% endfor %}
+        </div>
+      </nav>
+    {% endif %}
 
   </aside>
 
