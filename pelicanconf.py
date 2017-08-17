@@ -17,18 +17,22 @@ DISPLAY_PAGES_ON_MENU = False
 
 # tuple of (name, fontawesome icon, link) pairs
 SOCIAL = [
-    ('GitHub', 'fa-github', 'https://github.com/ixjlyons'),
-    ('LinkedIn', 'fa-linkedin-square', 'https://www.linkedin.com/in/ixjlyons/'),
-    ('Resume', 'fa-file-text-o', 'https://www.dropbox.com/s/49t8ne7wbfsr0ni/cv.pdf?dl=1')
+    ('GitHub', 'fa-github',
+        'https://github.com/ixjlyons'),
+    ('LinkedIn', 'fa-linkedin-square',
+        'https://www.linkedin.com/in/ixjlyons/'),
+    ('Resume', 'fa-file-text-o',
+        'https://www.dropbox.com/s/49t8ne7wbfsr0ni/cv.pdf?dl=1')
 ]
-
-#AVATAR = SITEURL+'/images/north-coast.jpg'
 
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-STATIC_PATHS = ['images', 'extra']
-EXTRA_PATH_METADATA = {'extra/favicon.ico': {'path': 'favicon.ico'}}
+STATIC_PATHS = ['images', 'extra', 'extra/CNAME']
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/CNAME': {'path': 'CNAME'}
+}
 
 DEFAULT_PAGINATION = False
