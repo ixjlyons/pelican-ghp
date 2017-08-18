@@ -29,10 +29,9 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-STATIC_PATHS = ['images', 'extra', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extra/CNAME': {'path': 'CNAME'}
 }
 
 DEFAULT_PAGINATION = False
