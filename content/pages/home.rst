@@ -136,6 +136,12 @@ Papers
 ------
 
 .. reference::
+   :author: <strong>K. R. Lyons</strong> and S. S. Joshi
+   :year: in press
+   :title: Upper Limb Prosthesis Control for High-Level Amputees via Myoelectric Recognition of Leg Gestures
+   :proc: IEEE Transactions on Neural Systems and Rehabilitation Engineering
+
+.. reference::
     :author: <strong>K. R. Lyons</strong> and S. S. Joshi
     :year: 2016
     :title: Real-Time Evaluation of a Myoelectric Control Method for High-Level Upper Limb Amputees Based on Homologous Leg Movements
