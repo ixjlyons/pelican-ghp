@@ -24,28 +24,37 @@ understood, and used to control things.
 Projects
 ========
 
+AxoPy
+-----
+
+.. image:: https://raw.githubusercontent.com/ucdrascal/axopy/fee97fedd6e4630a2da3457c2180b22994d6c354/docs/_static/axopy.png
+    :height: 1.5in
+    :alt: AxoPy logo
+
+AxoPy is a Python library aiming to make setting up human-computer interface
+experiments as easy as possible.
+
+- `AxoPy on GitHub <https://github.com/ucdrascal/axopy>`_
+
 PyGesture
 ---------
 
 .. image:: {filename}/images/pygesture-screenshot.png
-   :width: 2in
+   :height: 1.5in
    :alt: Screenshot of PyGesture
 
 PyGesture is an open source myoelectric gesture recognition suite for
 end-to-end prosthesis control experiments, written in Python. It includes data
 acquisition, signal processing, classification, graphical user interface, and
-communication with real-time simulation software.
+communication with real-time simulation software. Predecessor of AxoPy.
 
 - `PyGesture on GitHub <https://github.com/ixjlyons/pygesture>`_
-
-*tags: Python, Qt, signal processing, machine learning, electrophysiology,
-human subject studies, prosthetics, robotics*
 
 Walk Again
 ----------
 
 .. image:: {filename}/images/walkagain-led.jpg
-   :width: 2in
+   :height: 1.5in
    :alt: Photo of the Walk Again LED feedback system
 
 Walk Again was an international effort to demonstrate a brain-controlled
@@ -62,9 +71,6 @@ project involving academic and industry teams.
 - `YouTube video about the project with me in it <https://youtube.com/watch?v=Lco3U600aS4>`_
 - `YouTube video of more recent happenings <https://youtube.com/watch?v=PIIXhih5Qpg>`_
 
-*tags: machine learning, machining, PCB design, electrophysiology, Android
-development, human-computer interaction*
-
 .. _Mind in Motion: http://www.nature.com/scientificamerican/journal/v307/n3/full/scientificamerican0912-58.html
 .. _walkagain-news: https://www.ucdavis.edu/news/engineers-take-part-walk-again-effort-world-cup-help-disabled
 .. _walkagain-scireports: http://www.nature.com/articles/srep30383
@@ -73,7 +79,7 @@ MyoSwim
 -------
 
 .. image:: https://github.com/ixjlyons/myoswim/raw/master/img/screenshot.png?raw=true
-   :width: 2in
+   :height: 1.5in
    :alt: Screenshot of MyoSwim
 
 MyoSwim is a game for demonstrating computer interface control through surface
@@ -92,17 +98,15 @@ out.
 
 - `MyoSwim on GitHub <myoswim-gh_>`_
 
-*tags: electrophysiology, gamification, Android development, libGDX*
-
 .. _myoswim-gh: https://github.com/ixjlyons/myoswim
 .. _World Science Festival: http://www.worldsciencefestival.com/
 
 SecondEyes
 ----------
 
-.. image:: {filename}/images/secondeyes.jpg
-   :width: 2in
-   :alt: Photo of SecondEyes the robot
+.. image:: {filename}/images/secondeyes.png
+   :height: 1.5in
+   :alt: SecondEyes logo
 
 SecondEyes is a telepresence mobile robot meant to allow individuals with
 severe mobility impairments to virtually view their surroundings.
@@ -120,9 +124,6 @@ Robotics (ICORR) in 2013.
 - `ICORR paper <icorr-paper_>`_
 - `ICORR poster <icorr-poster_>`_
 - `Video of the robot moving around <secondeyes-youtube_>`_
-
-*tags: electronics, robotics, teleoperation, electrophysiology, Android
-development, Arduino*
 
 .. _icorr-paper: https://doi.org/10.1109/ICORR.2013.6650428
 .. _icorr-poster: https://doi.org/10.5281/zenodo.569066
