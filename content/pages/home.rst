@@ -259,6 +259,27 @@ Conference Posters and Abstracts
     :abstract: http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=88519dd5-ac98-4909-93c8-98ecda0435c6&cKey=2dd82c9a-c7fe-4903-be7e-d58ca8014603&mKey=54c85d94-6d69-4b09-afaa-502c0e680ca7
 
 
+Talks
+=====
+
+SciPy 2017: Automatic Code Generation with SymPy
+------------------------------------------------
+
+This is a tutorial session that I co-delivered at SciPy 2017. My portion of
+the tutorial was on using Cython to work with SymPy-generated C code from
+Python. The video below begins where I come in and start talking.
+
+.. raw:: html
+
+    <iframe
+        src="https://www.youtube.com/embed/5jzIVp6bTy0?start=7175"
+        width="400" height="220"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+    </iframe>
+
+
 Other Interests
 ===============
 
