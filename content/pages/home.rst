@@ -138,6 +138,18 @@ Papers
 
 .. reference::
    :author: <strong>K. R. Lyons</strong> and S. S. Joshi
+   :year: submitted
+   :title: Effects of Mapping Uncertainty on Visuomotor Adaptation to Trial-By-Trial Perturbations with Proportional Myoelectric Control
+   :proc: Proceedings of the IEEE Engineering in Medicine and Biology Society Conference (EMBC)
+
+.. reference::
+   :author: I. M. Kavhaug, <strong>K. R. Lyons</strong>, H. Chen, L. Barry, B. Korte, and S. S. Joshi
+   :year: submitted
+   :title: A Minimal Recording Configuration sEMG Human-Computer Interface for Cursor Control
+   :proc: IEEE Transactions on Human-Machine Systems
+
+.. reference::
+   :author: <strong>K. R. Lyons</strong> and S. S. Joshi
    :year: in press
    :title: Upper Limb Prosthesis Control for High-Level Amputees via Myoelectric Recognition of Leg Gestures
    :proc: IEEE Transactions on Neural Systems and Rehabilitation Engineering
