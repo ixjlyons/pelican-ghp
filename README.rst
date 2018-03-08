@@ -2,8 +2,7 @@
 pelican-ghp
 ===========
 
-This is the source for my `Github Pages static site <ixjlyons.github.io>`_
-generated with Pelican_.
+This is the source for my `personal website`_, generated with Pelican_.
 
 Setup
 =====
@@ -64,6 +63,7 @@ commits are separate)::
     (.venv) $ make github MSG="\"Commit message for GHP\""
 
 
+.. _personal website: https://ixjlyons.github.io
 .. _Pelican: http://blog.getpelican.com/
 .. _pelican-plugins: https://github.com/getpelican/pelican-plugins
 .. _ghp-import: https://github.com/davisp/ghp-import
