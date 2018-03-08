@@ -258,7 +258,7 @@ consider myself a somewhat serious hobbyist runner. My favorite distance is
 10 km, but I enjoy pushing my distance.
 
 - `Runkeeper <https://runkeeper.com/user/ixjlyons>`_
-- `Smashrun <https://smashrun.com/ixjlyons>`_
+- `Smashrun <http://smashrun.com/ixjlyons>`_
 - `Strava <https://www.strava.com/athletes/15127545>`_
 
 Linux
