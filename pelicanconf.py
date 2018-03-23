@@ -29,7 +29,7 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-STATIC_PATHS = ['images', 'extra']
+STATIC_PATHS = ['images', 'extra', 'documents']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }

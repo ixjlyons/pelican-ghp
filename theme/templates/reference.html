@@ -1,0 +1,51 @@
+{% block reference %}
+    <p>
+        ({{ reference.year }})
+        <span class="pubtitle">{{ reference.title }}</span>
+        <br>
+        {{ reference.author }}
+        <br>
+        <span class="pubattrs">
+            <i>{{ reference.proc }}</i>
+            {%- if reference.address -%}, {{ reference.address }}{% endif %}
+            {%- if reference.volume -%}, vol. {{ reference.volume }}{% endif %}
+            {%- if reference.number -%}, no. {{ reference.number }}{% endif %}
+            {%- if reference.pages -%}, pp. {{ reference.pages }}{% endif %}
+        </span>
+
+        {% if reference.pdf or reference.doi or reference.poster or reference.abstract %}
+            <br>
+            {% if reference.pdf %}
+                <a href="{{ reference.pdf }}">
+                    <i class="fa fa-file-pdf-o"></i>
+                    &nbsp;pdf
+                </a>
+                &nbsp;
+            {% endif %}
+
+            {% if reference.doi %}
+                <a href="https://doi.org/{{ reference.doi }}">
+                    <i class="fa fa-link"></i>
+                    &nbsp;doi
+                </a>
+                &nbsp;
+            {% endif %}
+
+            {% if reference.poster %}
+                <a href="{{ reference.poster }}">
+                    <i class="fa fa-picture-o"></i>
+                    &nbsp;poster
+                </a>
+                &nbsp;
+            {% endif %}
+
+            {% if reference.abstract %}
+                <a href="{{ reference.abstract }}">
+                    <i class="fa fa-file-text-o"></i>
+                    &nbsp;abstract
+                </a>
+            {% endif %}
+        {% endif %}
+
+    </p>
+{% endblock %}
