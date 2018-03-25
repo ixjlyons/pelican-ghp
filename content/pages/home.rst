@@ -215,6 +215,7 @@ Papers
         Robotics (ICORR)
     :address: Seattle, WA
     :doi: https://doi.org/10.1109/ICORR.2013.6650428
+    :pdf: {filename}/documents/LyonsJoshi-ICORR2013.pdf
     :poster: https://doi.org/10.5281/zenodo.569066
 
 Conference Posters and Abstracts
