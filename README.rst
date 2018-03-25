@@ -12,12 +12,11 @@ Clone the repository::
     $ git clone git@github.com:ixjlyons/pelican-ghp.git
     $ cd pelican-ghp
 
-Now create a virtual environment and install the dependencies, which are:
+Now create a virtual environment and install the dependencies, which right now
+just includes Pelican_ (and its dependencies).
 
-* Pelican_
-* ghp-import_
-
-These are included in ``requirements.txt``, the following should work::
+Exact versions are specified in ``requirements.txt``, so the following should
+set up an environment and generate the site correctly::
 
     $ python -m venv .venv
     $ source .venv/bin/activate
@@ -47,24 +46,10 @@ another ``make html`` and reload the site in the browser.
 We'll Do it Live!
 =================
 
-This site is set up as a personal site for my GitHub profile, so there is
-a separate repository holding the contents of the website (as opposed to
-a project page, where the content exists only in a ``gh-pages`` branch). This
-is done by pushing the ``gh-pages`` branch to that separate repository.
+Once the site is built, I use ``rsync`` to push it to a Linode::
 
-To deploy the site to GitHub Pages::
+    (.venv) $ make rsync
 
-    (.venv) $ make github
-
-You can optionally specify a commit message (note: this is not the commit
-message that shows up on the ``master`` branch of this repository -- those
-commits are separate)::
-
-    (.venv) $ make github MSG="\"Commit message for GHP\""
-
-
-.. _personal website: https://ixjlyons.github.io
+.. _personal website: https://ixjlyons.com
 .. _Pelican: http://blog.getpelican.com/
-.. _pelican-plugins: https://github.com/getpelican/pelican-plugins
-.. _ghp-import: https://github.com/davisp/ghp-import
 .. _pelican-quickstart: http://docs.getpelican.com/en/3.6.3/quickstart.html#create-a-project

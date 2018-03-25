@@ -8,8 +8,10 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-GHP_URL=git@github.com:ixjlyons/ixjlyons.github.io.git
-GHP_BRANCH=master
+SSH_HOST=nand
+SSH_PORT=22
+SSH_USER=kenny
+SSH_TARGET_DIR=/srv/www/ixjlyons
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -27,7 +29,7 @@ help:
 	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
 	@echo '   make stopserver                  stop local server                  '
-	@echo '   make github [MSG="commit msg"]   upload the web site via gh-pages   '
+	@echo '   make rsync                       upload the web site via rsync      '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -63,12 +65,7 @@ stopserver:
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
-github: publish
-ifdef MSG
-	ghp-import -m $(MSG) $(OUTPUTDIR)
-else
-	ghp-import -m "Generate Pelican site" $(OUTPUTDIR)
-endif
-	git push $(GHP_URL) gh-pages:$(GHP_BRANCH) --force
+rsync: publish
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
 .PHONY: html help clean regenerate serve devserver publish github
