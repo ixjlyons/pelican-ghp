@@ -6,7 +6,7 @@ Jinja2==2.10
 MarkupSafe==1.0
 pelican==3.7.1
 Pygments==2.2.0
-python-dateutil==2.6.1
+python-dateutil==2.7.1
 pytz==2018.3
 six==1.11.0
 Unidecode==1.0.22
