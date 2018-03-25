@@ -67,3 +67,4 @@ commits are separate)::
 .. _Pelican: http://blog.getpelican.com/
 .. _pelican-plugins: https://github.com/getpelican/pelican-plugins
 .. _ghp-import: https://github.com/davisp/ghp-import
+.. _pelican-quickstart: http://docs.getpelican.com/en/3.6.3/quickstart.html#create-a-project
