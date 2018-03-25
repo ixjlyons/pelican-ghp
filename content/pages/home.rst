@@ -172,6 +172,7 @@ Papers
         Conference (EMBC)
     :address: Orlando, FL
     :doi: 10.1109/EMBC.2016.7592184
+    :pdf: {filename}/documents/LyonsJoshi-EMBC2016.pdf
 
 .. reference::
     :author: I. M. Skavhaug, <strong>K. R. Lyons</strong>, A. Nemchuk, S.
