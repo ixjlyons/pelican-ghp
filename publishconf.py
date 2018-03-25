@@ -7,4 +7,4 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://ixjlyons.com'
+SITEURL = 'https://ixjlyons.github.io'
