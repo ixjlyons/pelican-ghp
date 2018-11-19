@@ -138,11 +138,14 @@ Papers
 
 .. reference::
     :author: <strong>K. R. Lyons</strong> and S. S. Joshi
-    :year: submitted
+    :year: 2018
     :title: Effects of Mapping Uncertainty on Visuomotor Adaptation to
         Trial-By-Trial Perturbations with Proportional Myoelectric Control
     :proc: Proceedings of the IEEE Engineering in Medicine and Biology Society
         Conference (EMBC)
+    :address: Honolulu, HI
+    :doi: 10.1109/EMBC.2018.8513412
+    :pdf: {filename}/documents/LyonsJoshi-EMBC2018.pdf
 
 .. reference::
     :author: I. M. Kavhaug, <strong>K. R. Lyons</strong>, H. Chen, L. Barry, B.
