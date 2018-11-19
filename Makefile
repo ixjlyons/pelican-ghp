@@ -9,7 +9,7 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 SSH_HOST=nand
-SSH_PORT=22
+SSH_PORT=4033
 SSH_USER=kenny
 SSH_TARGET_DIR=/srv/www/ixjlyons
 
@@ -68,4 +68,4 @@ publish:
 rsync: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
-.PHONY: html help clean regenerate serve devserver publish github
+.PHONY: html help clean regenerate serve devserver publish
