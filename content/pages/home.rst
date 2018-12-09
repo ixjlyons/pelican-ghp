@@ -307,6 +307,27 @@ Conference Posters and Abstracts
 Talks
 =====
 
+SciPy 2018: Resonance: Learning Mechanical Vibrations Through Computational Thinking
+------------------------------------------------------------------------------------
+
+This is a talk I gave at SciPy 2018 presenting some work on really rethinking
+how to teach mechanical vibrations to undergraduate engineering students.
+I gave the talk on behalf of the instructor of the course which I was a TA for.
+We wrote a library, set up a JupyterHub, and wrote tons of notebooks for
+in-class and homework materials to bring computing to the forefront as an
+approach to understanding fundamental concepts of vibratory systems.
+
+.. raw:: html
+
+    <iframe
+        src="https://www.youtube.com/embed/3QWKDGe528c"
+        width="400" height="220"
+        frameborder="0"
+        allow="encrypted-media;"
+        allowfullscreen>
+    </iframe>
+
+
 SciPy 2017: Automatic Code Generation with SymPy
 ------------------------------------------------
 
@@ -320,7 +341,7 @@ Python. The video below begins where I come in and start talking.
         src="https://www.youtube.com/embed/5jzIVp6bTy0?start=7175"
         width="400" height="220"
         frameborder="0"
-        allow="autoplay; encrypted-media"
+        allow="encrypted-media"
         allowfullscreen>
     </iframe>
 
