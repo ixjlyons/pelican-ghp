@@ -9,16 +9,15 @@
        <img src="../images/north-coast.jpg" width=150 height=150/>
    </figure>
 
-I am a PhD student in the Mechanical and Aerospace Engineering department at UC
-Davis. I work in the `Robotics, Autonomous Systems, and Controls Laboratory
-(RASCAL) <https://research.engineering.ucdavis.edu/rascal/>`_, where I develop
-ways for humans with disabilities to control machines.
+I am an engineer working on digital signal processing and inertial navigation.
+I am currently in the finishing stretch of my PhD in Mechanical and Aerospace
+Engineering department at UC Davis.
 
-My primary research interests include electrophysiological signal acquisition
-and processing, the combination of human and machine learning, and their use
-for the control of computer and machine interfaces. In English: I'm fascinated
-by the fact that our bodies produce electrical signals that can be detected,
-understood, and used to control things.
+I'm interested in electrophysiological signal acquisition and processing, the
+combination of human and machine learning, and their use for the control of
+computer and machine interfaces. In English: I'm fascinated by the fact that
+our bodies produce electrical signals that can be detected, understood, and
+used to control things.
 
 
 Projects
@@ -135,6 +134,14 @@ Publications
 
 Papers
 ------
+
+.. reference::
+    :author: S. M. O'Meara, M. C. Shyr, <strong>K. R. Lyons</strong>, and S. S.
+        Joshi
+    :year: accepted
+    :title: Comparing Two Different Cursor Control Methods which Use
+        Single-Site Surface Electromyography
+    :proc: 9th International IEEE EMBS Neural Engineering Conference
 
 .. reference::
     :author: <strong>K. R. Lyons</strong> and S. S. Joshi
