@@ -1,4 +1,7 @@
-:title: Kenneth R. Lyons
+================
+Kenneth R. Lyons
+================
+
 :URL:
 :save_as: index.html
 
