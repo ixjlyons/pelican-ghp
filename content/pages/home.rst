@@ -38,7 +38,7 @@ experiments as easy as possible.
 PyGesture
 ---------
 
-.. image:: {filename}/images/pygesture-screenshot.png
+.. image:: {static}/images/pygesture-screenshot.png
    :height: 1.5in
    :alt: Screenshot of PyGesture
 
@@ -52,7 +52,7 @@ communication with real-time simulation software. Predecessor of AxoPy.
 Walk Again
 ----------
 
-.. image:: {filename}/images/walkagain-led.jpg
+.. image:: {static}/images/walkagain-led.jpg
    :height: 1.5in
    :alt: Photo of the Walk Again LED feedback system
 
@@ -103,7 +103,7 @@ out.
 SecondEyes
 ----------
 
-.. image:: {filename}/images/secondeyes.png
+.. image:: {static}/images/secondeyes.png
    :height: 1.5in
    :alt: SecondEyes logo
 
@@ -152,7 +152,7 @@ Papers
         Conference (EMBC)
     :address: Honolulu, HI
     :doi: 10.1109/EMBC.2018.8513412
-    :pdf: {filename}/documents/LyonsJoshi-EMBC2018.pdf
+    :pdf: {static}/documents/LyonsJoshi-EMBC2018.pdf
 
 .. reference::
     :author: I. M. Kavhaug, <strong>K. R. Lyons</strong>, H. Chen, L. Barry, B.
@@ -171,7 +171,7 @@ Papers
         Myoelectric Recognition of Leg Gestures
     :proc: IEEE Transactions on Neural Systems and Rehabilitation Engineering
     :doi: 10.1109/TNSRE.2018.2807360
-    :pdf: {filename}/documents/LyonsJoshi-TNSRE2018.pdf
+    :pdf: {static}/documents/LyonsJoshi-TNSRE2018.pdf
 
 .. reference::
     :author: <strong>K. R. Lyons</strong> and S. S. Joshi
@@ -182,7 +182,7 @@ Papers
         Conference (EMBC)
     :address: Orlando, FL
     :doi: 10.1109/EMBC.2016.7592184
-    :pdf: {filename}/documents/LyonsJoshi-EMBC2016.pdf
+    :pdf: {static}/documents/LyonsJoshi-EMBC2016.pdf
 
 .. reference::
     :author: I. M. Skavhaug, <strong>K. R. Lyons</strong>, A. Nemchuk, S.
@@ -225,7 +225,7 @@ Papers
         Robotics (ICORR)
     :address: Seattle, WA
     :doi: https://doi.org/10.1109/ICORR.2013.6650428
-    :pdf: {filename}/documents/LyonsJoshi-ICORR2013.pdf
+    :pdf: {static}/documents/LyonsJoshi-ICORR2013.pdf
     :poster: https://doi.org/10.5281/zenodo.569066
 
 Conference Posters and Abstracts
