@@ -12,15 +12,15 @@ Kenneth R. Lyons
        <img src="../images/north-coast.jpg" width=150 height=150/>
    </figure>
 
-I am an engineer working on digital signal processing and inertial navigation.
-I am currently in the finishing stretch of my PhD in Mechanical and Aerospace
-Engineering department at UC Davis.
+Hey there, my name's Kenny and I'm an engineer. I recently (December 2018)
+finished my PhD in Mechanical and Aerospace Engineering at UC Davis and I'm now
+working in inertial navigation and GPS.
 
-I'm interested in electrophysiological signal acquisition and processing, the
-combination of human and machine learning, and their use for the control of
-computer and machine interfaces. In English: I'm fascinated by the fact that
-our bodies produce electrical signals that can be detected, understood, and
-used to control things.
+During grad school, I became interested in electrophysiological signal
+acquisition and processing, the combination of human and machine learning, and
+their use for the control of computer and machine interfaces. In English: I'm
+fascinated by the fact that our bodies produce electrical signals that can be
+detected, understood, and used to control things.
 
 
 Projects
@@ -29,14 +29,14 @@ Projects
 AxoPy
 -----
 
-.. image:: https://raw.githubusercontent.com/ucdrascal/axopy/fee97fedd6e4630a2da3457c2180b22994d6c354/docs/_static/axopy.png
+.. image:: https://raw.githubusercontent.com/axopy/axopy/fee97fedd6e4630a2da3457c2180b22994d6c354/docs/_static/axopy.png
     :height: 1.5in
     :alt: AxoPy logo
 
 AxoPy is a Python library aiming to make setting up human-computer interface
 experiments as easy as possible.
 
-- `AxoPy on GitHub <https://github.com/ucdrascal/axopy>`_
+- `AxoPy on GitHub <https://github.com/axopy/axopy>`_
 
 PyGesture
 ---------
@@ -134,6 +134,16 @@ Robotics (ICORR) in 2013.
 
 Publications
 ============
+
+Dissertation
+------------
+
+.. reference::
+    :author: <strong>K. R. Lyons</strong>
+    :year: 2018
+    :title: Human and Machine Learning in Myoelectric Control
+    :address: PhD Dissertation
+    :proc: University of California, Davis
 
 Papers
 ------
@@ -355,9 +365,9 @@ Other Interests
 Running
 -------
 
-I run around parks and occasionally the UC Davis arboretum in the mornings. I'd
-consider myself a somewhat serious hobbyist runner. My favorite distance is
-10 km, but I enjoy pushing my distance.
+Running has been a semi-serious hobby of mine since about 2012, and recently my
+interests have shifted toward trail running. My favorite way to explore a new
+place is to just go out run around. All my runs are tracked:
 
 - `Runkeeper <https://runkeeper.com/user/ixjlyons>`_
 - `Smashrun <http://smashrun.com/ixjlyons>`_
@@ -367,8 +377,9 @@ Linux
 -----
 
 I am a Linux enthusiast (`Linux From Scratch
-<http://www.linuxfromscratch.org/>`_ is my idea of a fun weekend) and serve as
-``typescript`` (secretary) for my local LUG (`LUGOD <http://www.lugod.org/>`_).
+<http://www.linuxfromscratch.org/>`_ is my idea of a fun weekend) and I served
+as ``typescript`` (secretary) for my local LUG (`LUGOD
+<http://www.lugod.org/>`_) for a few years before moving away for work.
 
 My setup generally includes the Arch Linux distribution, i3 tiling window
 manager, fish, and vim. You can look at my `dotfiles
@@ -381,11 +392,11 @@ Although I'm a mechanical engineer by training, I love taking electronic
 devices apart. This started as an interest in robotics, but quickly became
 a more general enthusiasm for microcontrollers and such. I'm mostly familiar
 with Atmel's ATmega microcontrollers, but I've also done a little with TI's
-MSP430 and ARM Cortex M3/M4 (though not enough to setup a toolchain on the
-spot). I can do a pretty decent job with PCB layout and have had no total
-failures arrive from `OSH Park <https://oshpark.com/>`_. At some point, I would
-really like to build up some skills in designing and building guitar effects
-pedals.
+MSP430 low-power micros and ARM Cortex M3/M4. I've also been getting quite
+familiar with TI's TMS320 series DSPs and Xilinx FPGAs at work. I can do
+a pretty decent job with PCB layout and have had no total failures arrive from
+`OSH Park <https://oshpark.com/>`_. At some point, I would really like to build
+up some skills in designing and building guitar effects pedals.
 
 Other
 -----
