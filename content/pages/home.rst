@@ -151,10 +151,12 @@ Papers
 .. reference::
     :author: S. M. O'Meara, M. C. Shyr, <strong>K. R. Lyons</strong>, and S. S.
         Joshi
-    :year: accepted
+    :year: 2019
     :title: Comparing Two Different Cursor Control Methods which Use
         Single-Site Surface Electromyography
-    :proc: 9th International IEEE EMBS Neural Engineering Conference
+    :proc: Proceedings of the IEEE/EMBS Neural Engineering Conference (NER)
+    :address: San Francisco, CA
+    :doi: 10.1109/NER.2019.8716903
 
 .. reference::
     :author: <strong>K. R. Lyons</strong> and S. S. Joshi
@@ -166,14 +168,6 @@ Papers
     :address: Honolulu, HI
     :doi: 10.1109/EMBC.2018.8513412
     :pdf: {static}/documents/LyonsJoshi-EMBC2018.pdf
-
-.. reference::
-    :author: I. M. Kavhaug, <strong>K. R. Lyons</strong>, H. Chen, L. Barry, B.
-        Korte, and S. S. Joshi
-    :year: submitted
-    :title: A Minimal Recording Configuration sEMG Human-Computer Interface for
-        Cursor Control
-    :proc: IEEE Transactions on Human-Machine Systems
 
 .. reference::
     :author: <strong>K. R. Lyons</strong> and S. S. Joshi
