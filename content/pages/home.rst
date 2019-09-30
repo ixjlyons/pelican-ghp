@@ -14,14 +14,16 @@ Kenneth R. Lyons
 
 Hey there, my name's Kenny and I'm an engineer. I recently (December 2018)
 finished my PhD in Mechanical and Aerospace Engineering at UC Davis and I'm now
-working in inertial navigation and GPS.
+working in inertial sensing and navigation.
 
 During grad school, I became interested in electrophysiological signal
 acquisition and processing, the combination of human and machine learning, and
 their use for the control of computer and machine interfaces. In English: I'm
-fascinated by the fact that our bodies produce electrical signals that can be
-detected, understood, and used to control things.
+fascinated by the fact that our bodies produce signals that can be detected,
+understood, and used to control things.
 
+If you want to get in touch, feel free to send me an email: ``ixjlyons at gmail
+dot com``.
 
 Projects
 ========
@@ -34,9 +36,14 @@ AxoPy
     :alt: AxoPy logo
 
 AxoPy is a Python library aiming to make setting up human-computer interface
-experiments as easy as possible.
+experiments as easy as possible. I spent a lot of time during my PhD thinking
+about how to implement experiments I wanted to run rather than focusing on the
+design of the experiments to begin with. AxoPy is essentially the result of
+a couple iterations on trying to create a general framework for setting up
+event-driven experiments in a friendly language.
 
 - `AxoPy on GitHub <https://github.com/axopy/axopy>`_
+- `Journal of Open Source Software (JOSS) paper <https://doi.org/10.21105/joss.01191>`_
 
 PyGesture
 ---------
@@ -84,19 +91,14 @@ MyoSwim
    :height: 1.5in
    :alt: Screenshot of MyoSwim
 
-MyoSwim is a game for demonstrating computer interface control through surface
-electromyography at the `World Science Festival`_ in 2015.
+MyoSwim is a game I made for demonstrating computer interface control through
+surface electromyography at the `World Science Festival`_ in 2015. It uses the
+microphone port of a smartphone, tablet, or computer to record a surface EMG
+signal, allowing the player to control a fish popping bubbles and avoiding
+bigger fish.
 
-It uses the microphone as an input to the plane, allowing for myoelectric
-control if an EMG sensor is plugged in to the microphone port (you could blow
-or hum into the microphone for control otherwise). The RMS value is calculated
-and put through a moving average filter to get the input value. This input
-value is used to control the vertical speed of the player, working against
-gravity.
-
-It was a lot of fun to make, and demonstrating it at the World Science Festival
-was a blast. For the entire day, we had kids of all ages lined up to try it
-out.
+It was a lot of fun to make and we had kids of all ages lined up for hours to
+play it at the festival.
 
 - `MyoSwim on GitHub <myoswim-gh_>`_
 
@@ -111,16 +113,15 @@ SecondEyes
    :alt: SecondEyes logo
 
 SecondEyes is a telepresence mobile robot meant to allow individuals with
-severe mobility impairments to virtually view their surroundings.
-A WiFi-enabled camera mounted on the robot streams video to a custom Android
-application which acts as a noninvasive, hands-free control interface based on
-a single electromyographic (EMG) sensor. This was my Capstone senior design
-project in mechanical engineering which turned into my first graduate research
-project.
+severe mobility impairments to view their surroundings. A WiFi-enabled camera
+mounted on the robot streams video to a custom Android application which acts as
+a noninvasive, hands-free control interface based on a single EMG sensor. This
+was my Capstone senior design project in mechanical engineering which turned
+into my first graduate research project.
 
 The robot was first used in a case study in which a man with a high-level
 spinal cord injury controlled the robot remotely and navigated a simple maze.
-This was presented at the IEEE International Conference on Rehabilitation
+I presented the results at the IEEE International Conference on Rehabilitation
 Robotics (ICORR) in 2013.
 
 - `ICORR paper <icorr-paper_>`_
@@ -144,6 +145,7 @@ Dissertation
     :title: Human and Machine Learning in Myoelectric Control
     :address: PhD Dissertation
     :proc: University of California, Davis
+    :pdf: {static}/documents/Lyons-dissertation.pdf
 
 Papers
 ------
@@ -157,6 +159,14 @@ Papers
     :proc: Proceedings of the IEEE/EMBS Neural Engineering Conference (NER)
     :address: San Francisco, CA
     :doi: 10.1109/NER.2019.8716903
+
+.. reference::
+   :author: K. R. Lyons and B. W. L. Margolis
+   :year: 2019
+   :title: AxoPy: A Python Library for Implementing Human-Computer Interface
+       Experiments
+   :proc: Journal of Open Source Software (JOSS)
+   :doi: 10.21105/joss.01191
 
 .. reference::
     :author: <strong>K. R. Lyons</strong> and S. S. Joshi
@@ -361,9 +371,8 @@ Running
 
 Running has been a semi-serious hobby of mine since about 2012, and recently my
 interests have shifted toward trail running. My favorite way to explore a new
-place is to just go out run around. All my runs are tracked:
+place is to just go out run around. I track all my running:
 
-- `Runkeeper <https://runkeeper.com/user/ixjlyons>`_
 - `Smashrun <http://smashrun.com/ixjlyons>`_
 - `Strava <https://www.strava.com/athletes/15127545>`_
 
@@ -375,22 +384,29 @@ I am a Linux enthusiast (`Linux From Scratch
 as ``typescript`` (secretary) for my local LUG (`LUGOD
 <http://www.lugod.org/>`_) for a few years before moving away for work.
 
-My setup generally includes the Arch Linux distribution, i3 tiling window
-manager, fish, and vim. You can look at my `dotfiles
+My setup generally includes the `i3`_ tiling window manager, the `fish shell`_,
+and vim. You can look at my `config files
 <https://github.com/ixjlyons/dotfiles>`_ if you want.
+
+.. _i3: https://i3wm.org/
+.. _fish shell: https://fishshell.com/
 
 Electronics
 -----------
 
-Although I'm a mechanical engineer by training, I love taking electronic
-devices apart. This started as an interest in robotics, but quickly became
-a more general enthusiasm for microcontrollers and such. I'm mostly familiar
-with Atmel's ATmega microcontrollers, but I've also done a little with TI's
-MSP430 low-power micros and ARM Cortex M3/M4. I've also been getting quite
-familiar with TI's TMS320 series DSPs and Xilinx FPGAs at work. I can do
-a pretty decent job with PCB layout and have had no total failures arrive from
-`OSH Park <https://oshpark.com/>`_. At some point, I would really like to build
-up some skills in designing and building guitar effects pedals.
+I'm a mechanical engineer by training, but I've always loved taking electronic
+devices apart. When I got started with programming, I quickly took an interest
+in embedded development. Like many, I started out with Arduino and then moved on
+learn more about the details closer to the metal. Since then, I've had the
+opportunity to develop on ARM Cortex M3/M4 (TI, some ST), TI DSPs (floating and
+fixed point), and a bit on TI MSP430. I've also gotten some experience working
+with Xilinx Spartan-3 and Microsemi IGLOO FPGAs.
+
+Aside from firmware dev, I can do a pretty decent job with system design through
+PCB layout and have had no total failures arrive from `OSH Park
+<https://oshpark.com/>`_. Overall, I find that I make a decent embedded systems
+engineer because I like working on all phases of an embedded project and at all
+levels.
 
 Other
 -----

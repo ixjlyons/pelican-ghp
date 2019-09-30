@@ -36,6 +36,10 @@ h2 {
     font-weight: 600;
 }
 
+tt {
+    font-size: 12px;
+}
+
 .latest {
     padding: 10px 10px;
     border-bottom: 1px solid #eee;
