@@ -14,7 +14,8 @@ Kenneth R. Lyons
 
 Hey there, my name's Kenny and I'm an engineer. I recently (December 2018)
 finished my PhD in Mechanical and Aerospace Engineering at UC Davis and I'm now
-working in inertial sensing and navigation.
+working in inertial sensing and navigation. I'm a curious person and I never get
+tired of learning how things work.
 
 During grad school, I became interested in electrophysiological signal
 acquisition and processing, the combination of human and machine learning, and
