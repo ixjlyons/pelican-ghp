@@ -22,8 +22,8 @@ send me an email: ``ixjlyons at gmail dot com``.
 
 I grew up in a small town in a somewhat remote region of coastal northern
 California until starting college at UC Davis in 2008. Mechanical engineering
-seemed to be a fairly broad "how things work" major out there, so that suited me
-pretty well. I pursued interests in computing and electronics and took enough
+seemed to be a fairly broad "how things work" major, so that suited me pretty
+well. I pursued interests in computing and electronics and took enough
 linguistics courses to end up with a minor. My capstone senior design project
 involved building a telepresence robot and a phone app to drive it around. The
 project was sponsored by a research lab on campus, and the idea was to
@@ -33,9 +33,10 @@ very limited or no mobility to gain some independence and presence in the home.
 I *had* to understand how such an interface worked and see what it could do, so
 I stuck around in that lab to do a PhD. My focus was on extracting information
 from these muscle signals, and toward the end, I shifted a bit toward trying to
-understand some of the properties of the brain controlling them. I completed my
-PhD at the end of 2018, and since then I've worked in inertial sensing and
-navigation at Emcore.
+understand some of the properties of the brain controlling them. I finished my
+PhD in the end of 2018 and went to work as an embedded systems developer in
+inertial sensing at Emcore. I've recently transitioned to a civil service
+position as a research engineer at NASA Ames.
 
 Some Projects
 =============
@@ -407,20 +408,23 @@ Other Interests
 Running
 -------
 
-Running has been a semi-serious hobby of mine since about 2012, and recently my
-interests have shifted toward trail running. My favorite way to explore a new
-place is to just go out run around. I currently track all my runs with `Strava`_
-and sync the data to `Smashrun`_.
+Running has been a semi-serious hobby of mine since about 2012. My favorite way
+to explore a new place is to just go out and run around. In the last couple
+years, my interests have shifted toward trail running, and this has spawned
+curiosity about mapping, ecology, and weather.
 
-As of July 2020, I've run every day since April 8, 2017. I don't really have
+I've tracked all my running with `Strava`_ for quite a while and sync the data
+to `Smashrun`_ as well.
+
+As of August 2020, I've run every day since April 8, 2017. I don't really have
 a good reason, I guess I `just felt like running`_.
 
 .. _Strava: https://www.strava.com/athletes/15127545
 .. _Smashrun: https://smashrun.com/ixjlyons
 .. _just felt like running: https://github.com/ixjlyons/just-felt-like-running/blob/master/just-felt-like-running.ipynb
 
-Linux
------
+Free (as in freedom) Software
+-----------------------------
 
 I've been a Linux enthusiast (`Linux From Scratch
 <http://www.linuxfromscratch.org/>`_ is my idea of a fun weekend) since 2008 or
@@ -438,13 +442,17 @@ Electronics
 -----------
 
 I'm a mechanical engineer by training, but I've always loved taking electronic
-devices apart. When I got started with programming, I quickly took an interest
-in embedded development. Like many, I started out with Arduino and then moved on
-learn more about the details closer to the metal. Since then, I've had the
-opportunity to develop on a variety of processor families and I've even gotten
-to work with FPGAs a bit. One of the bigger projects I've worked on involved
-porting a fairly complex bootloader and a runtime application to a TI
-TMS32028335. I learned a *ton* of neat stuff doing that.
+devices apart. When I got started with programming, I pretty much immediately
+took an interest in embedded development. The interactions between code and
+electrical signals still fascinates me to this day, probably because of the
+wonderful variety of bugs you can find in embedded systems.
+
+Like many, I started out with Arduino and then moved on learn more about the
+details closer to the metal. Since then, I've had the opportunity to develop on
+a variety of processor families and I've even gotten to work with FPGAs a bit.
+One of the bigger projects I've worked on involved porting a fairly complex
+bootloader and a runtime application to a TI TMS32028335. I learned a *ton* of
+neat stuff doing that.
 
 Other
 -----
@@ -453,6 +461,9 @@ I enjoy craft beer. North Coast's Old Rasputin is my favorite (in the picture
 above, I'm about to enjoy a flight at North Coast Brewing Co. in Fort Bragg,
 CA).
 
-I've been playing the guitar since 2003. I'm currently making my way through
-Mick Goodrick's *The Advancing Guitarist*, which I should've bought a long time
-ago.
+I've been playing the guitar and dabbling with music production since about
+2003. I'm currently making my way through Mick Goodrick's *The Advancing
+Guitarist*, which is fantastic.
+
+I've gone through several phases of learning the German language. I still can't
+say *Lehrerin* properly...
