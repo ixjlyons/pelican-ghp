@@ -12,7 +12,7 @@ K. R. Lyons
        <img src="../images/north-coast.jpg" width=120 height=120/>
    </figure>
 
-Hey there, my name's Kenn and I'm an engineer. This site is sort of a stylized
+Hey there, my name's Kenh and I'm an engineer. This site is sort of a stylized
 or expanded resume for now, I suppose. If you want to get in touch, feel free to
 send me an email: ``ixjlyons at gmail dot com``.
 
@@ -416,7 +416,7 @@ curiosity about mapping, ecology, and weather.
 I've tracked all my running with `Strava`_ for quite a while and sync the data
 to `Smashrun`_ as well.
 
-As of August 2020, I've run every day since April 8, 2017. I don't really have
+I ran every day between April 8, 2017 and June 20, 2021. I don't really have
 a good reason, I guess I `just felt like running`_.
 
 .. _Strava: https://www.strava.com/athletes/15127545
