@@ -164,6 +164,13 @@ Papers
 ------
 
 .. reference::
+   :author: B. W. L. Margolis and <strong>K. R. Lyons</strong>
+   :year: 2022
+   :title: SimuPy Flight Vehicle Toolkit
+   :proc: Journal of Open Source Software (JOSS)
+   :doi: 10.21105/joss.04299
+
+.. reference::
    :author: S. Zotov, A. Srivastava, K. Kwon, J. Frank, E. Parco, M. Williams,
        S. Shtigluz, <strong>K. Lyons</strong>, M. Frazee, D. Hoyh, and A. Liu
    :year: 2020
