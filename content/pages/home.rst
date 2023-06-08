@@ -165,6 +165,18 @@ Papers
        Enable Optimization-Based Hybrid-Propulsion Aircraft Design
    :proc: AIAA AVIATION Forum
    :address: San Diego, CA
+   :doi: 10.2514/6.2023-3224
+   :pdf: {static}/documents/LyonsEtAl-AVIATION2023.pdf
+
+.. reference::
+   :author: C. J. Recine, D. D. V. Pham, J. V. Bowles, <strong>K. R.
+       Lyons</strong>, B. W. L. Margolis, and J. A. Garcia
+   :year: 2023
+   :title: Analysis and Optimization of Baseline Single Aisle Aircraft for
+       Future Electrified Powertrain Flight Demonstrator Comparisons
+   :proc: AIAA AVIATION Forum
+   :address: San Diego, CA
+   :doi: 10.2514/6.2023-3367
 
 .. reference::
    :author: D. D. Murakami, M. Shaw-Lecerf, E. L. Lash, <strong>K.
