@@ -21,6 +21,7 @@ class Reference(Directive):
         :number: 10
         :pages: 777
         :doi: 10.1103/PhysRev.47.777
+        :pdf: {static}/doc_hosted_on_site.pdf
     """
 
     # just a basic template: author, title, proc, year.

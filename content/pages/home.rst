@@ -166,7 +166,7 @@ Papers
    :proc: AIAA AVIATION Forum
    :address: San Diego, CA
    :doi: 10.2514/6.2023-3224
-   :pdf: {static}/documents/LyonsEtAl-AVIATION2023.pdf
+   :pdf: https://ntrs.nasa.gov/citations/20230006448
 
 .. reference::
    :author: C. J. Recine, D. D. V. Pham, J. V. Bowles, <strong>K. R.
@@ -187,6 +187,7 @@ Papers
    :proc: AIAA SCITECH Forum
    :address: National Harbor, MD
    :doi: 10.2514/6.2023-0635
+   :pdf: https://ntrs.nasa.gov/citations/20220018209
 
 .. reference::
    :author: N. Roozeboom, D. D. Murakami, J. Li, M. Shaw-Lecerf, E. L. Lash, N.
@@ -198,6 +199,7 @@ Papers
    :proc: AIAA SCITECH Forum
    :address: National Harbor, MD
    :doi: 10.2514/6.2023-0636
+   :pdf: https://ntrs.nasa.gov/citations/20220018047
 
 .. reference::
    :author: B. W. L. Margolis and <strong>K. R. Lyons</strong>
