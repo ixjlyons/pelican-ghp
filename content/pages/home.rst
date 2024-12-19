@@ -9,7 +9,7 @@ K. R. Lyons
 .. raw:: html
 
    <figure style="float: right">
-       <img src="../images/north-coast.jpg" width=120 height=120/>
+       <img src="../images/pacifica.jpg" width=180 height=180/>
    </figure>
 
 Hey there, my name's Kenh and I'm an engineer. This site is sort of a stylized
@@ -156,6 +156,25 @@ Publications
 
 Papers
 ------
+
+.. reference::
+   :author: <strong>K. R. Lyons</strong>, D. D. Murakami, M. A. Shaw-Lecerf, E.
+       L. Lash, N. H. Roozeboom, J. Li, N. W. Califano
+   :year: 2025
+   :title: Steady Surface Pressure Measurement via the Lifetime Method with
+       High-Speed Cameras in NASA's Unitary Plan Wind Tunnel
+   :proc: AIAA SciTech Forum
+   :address: Orlando, FL
+
+.. reference::
+   :author: B. W. L. Margolis, <strong>K. R. Lyons</strong>, J. A. Garcia, D. V.
+       Pham, J. V. Bowles, N. Bridges, E. Chang
+   :year: 2024
+   :title: General Aviation Synthesis Program Advancements With Symbolic
+       Computations, Optimization, and Decoupled Numerical Methods
+   :proc: AIAA AVIATION Forum
+   :address: Las Vegas, NV
+   :doi: 10.2514/6.2024-3628
 
 .. reference::
    :author: <strong>K. R. Lyons</strong>, B. W. L. Margolis, J. V. Bowles, J. D.
